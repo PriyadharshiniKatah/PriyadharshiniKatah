@@ -1,4 +1,53 @@
-## Hi there 👋
+# Hi, I'm Priyadharshini PK 👋
+
+## Product | Growth | Strategic Partnerships | Business Transformation
+
+I help businesses scale growth channels, build strategic partnerships, optimize funnels, and deliver digital transformation initiatives.
+
+### 🚀 Impact Highlights
+
+- Scaled partner network from **3,200 → 26,000+**
+- Improved channel penetration from **32% → 69%**
+- Delivered **17% profitability growth**
+- Led **21+ technology upgrades**
+- Digitized end-to-end lending journeys
+- Spearheaded the Fincare–AU merger transition
+
+### 💼 Experience
+
+#### AU Small Finance Bank
+Product • Growth • Strategic Alliances
+
+- Built and scaled partner ecosystems
+- Led channel growth and GTM initiatives
+- Drove product digitization programs
+- Managed strategic alliance partnerships
+- Coordinated Product, Tech, Operations, Compliance and Business teams
+
+#### Home First Finance
+Strategic Manager
+
+- Managed PAN India lending operations
+- Authorized ₹200–250 Cr monthly sanctions
+- Built B2B alliance networks from scratch
+- Improved reporting and operational efficiency
+
+### 🛠 Core Skills
+
+Product Management • Growth Strategy • GTM • Strategic Partnerships • Business Analytics • Funnel Optimization • Digital Transformation • Stakeholder Management • Project Management
+
+### 📚 Featured Case Studies
+
+- Connector Network Scale-Up
+- Lending Journey Digitization
+- Strategic Alliances Build-Out
+- Fincare–AU Merger Integration
+
+### 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/priyadharshini-p-k/
+- Email: priyadharshini.katah@gmail.com
+- Location: Bengaluru, India
 
 <!--
 **PriyadharshiniKatah/PriyadharshiniKatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
