@@ -21,8 +21,8 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 
 ### 💼 Experience
 
-#### AU Small Finance Bank
-Product • Growth • Strategic Alliances
+#### AU Small Finance Bank, Corporate Office, Bangalore
+Product Manager - Strategic Alliances, Connector and Insurance Channel
 
 - Built and scaled partner ecosystems
 - Led channel growth and GTM initiatives
@@ -30,7 +30,7 @@ Product • Growth • Strategic Alliances
 - Managed strategic alliance partnerships
 - Coordinated Product, Tech, Operations, Compliance and Business teams
 
-#### Home First Finance
+#### Home First Finance Company India Limited, Head Office, Mumbai
 Strategic Manager
 
 - Managed PAN India lending operations
