@@ -30,7 +30,7 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Collaborated with Product, Technology, Risk, Compliance, and Operations teams to launch scalable partnership-led growth initiatives.
 - Managed channel P&L, budgeting, forecasting, and profitability tracking to ensure sustainable business growth.
 
-📖 **Case Study:** [Strategic Alliances](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/Strategic-alliances-case-study.md)
+📖 **Case Study:** [Strategic Alliances] (https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/Strategic-alliances-case-study.md)
 
 ### 🔗 Connector Channel
 
@@ -40,7 +40,7 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Worked closely with internal stakeholders to streamline onboarding, reduce operational bottlenecks, and enhance partner experience.
 - Drove channel expansion by identifying new opportunities and strengthening relationships with key ecosystem players.
 
-📖 **Case Study:** [Connector Channel Scale-Up](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/connector-channel-case-study.md)
+📖 **Case Study:** [Connector Channel Scale-Up] (https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/connector-channel-case-study.md)
 
 ### 🛡️ Insurance Channel
 
