@@ -148,7 +148,7 @@ Results:
 - Improved customer experience and operational efficiency
 - Reduced insurance fallout rates significantly
 
-📖 **Case Study:** [Insurance Channel Transformation](./insurance-channel-case-study.md)
+📖 **Case Study:** [Insurance Channel Transformation](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/insurance-channel-transformation.md)
 
 ---
 
