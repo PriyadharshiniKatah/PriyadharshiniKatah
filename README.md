@@ -82,6 +82,47 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Contributed to national lending operations across multiple geographies, gaining expertise in credit risk, underwriting, compliance, and customer lifecycle management.
 - Received the **"Number Crunchers Award – PAN India"** for resolving complex pending cases and delivering exceptional disbursement performance.
 
+## 🌱 Career Break & Entrepreneurial Ventures (May 2025 – Present)
+
+Following the birth of my two children, I took a planned career break to focus on family commitments while simultaneously building independent ventures and expanding my experience in customer acquisition, branding, and business operations.
+
+During this period, I founded and managed two ventures:
+
+### 🎨 @the_memorylines
+
+A personalized art and gifting venture focused on creating custom keepsakes and meaningful customer experiences.
+
+Key Responsibilities:
+- Customer acquisition and relationship management
+- Product design and customization
+- Brand building and social media presence
+- Order management and fulfillment
+- End-to-end business operations
+
+### 👕 Butterly.in
+
+A custom clothing design and supply venture serving individuals and small businesses.
+
+Key Responsibilities:
+- Client acquisition and account management
+- Vendor sourcing and supply coordination
+- Design consultation and customization
+- Pricing and commercial negotiations
+- Delivery and customer experience management
+
+### Skills Strengthened During This Period
+
+- Entrepreneurship
+- Customer Discovery
+- Brand Building
+- Marketing & Social Media
+- Business Development
+- Vendor Management
+- Operations Management
+- End-to-End Business Ownership
+
+I am now fully available and actively seeking Product Management, Growth, Strategy, Partnerships, and Business Transformation opportunities.
+
 ---
 # 📊 Key Achievements
 
