@@ -59,9 +59,9 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Built executive dashboards and MIS frameworks to track acquisition, conversion, revenue, retention, and operational KPIs.
 - Contributed to strategic planning, business reviews, budgeting exercises, and long-term growth initiatives across channels.
 
-📖 **Case Study:** [Lending Journey Digitization](./Lending-digitization-case-study.md)
+📖 **Case Study:** [Lending Journey Digitization] (https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/Lending-digitization-case-study.md)
 
-📖 **Case Study:** [Fincare–AU Merger Integration](./Fincare-AU-merger-case-study.md)
+📖 **Case Study:** [Fincare–AU Merger Integration] (https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/case-studies/Fincare-AU-merger-case-study.md)
 
 #### Home First Finance Company India Limited, Head Office, Mumbai
 ## 🤝 Strategic Alliances & Channel Development (Feb 2020 – Apr 2022)
