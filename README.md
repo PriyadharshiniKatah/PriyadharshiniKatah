@@ -4,7 +4,7 @@
 
 I build products, growth engines, strategic partnerships, and operational systems that drive measurable business outcomes.
 
-Over the last 8+ years, I have worked across Product Management, Growth, Strategic Alliances, Business Transformation, Channel Development, Lending Operations, and Financial Services. My work has focused on solving complex business problems through product thinking, technology enablement, process redesign, and cross-functional leadership.
+Over the last 7+ years, I have worked across Product Management, Growth, Strategic Alliances, Business Transformation, Channel Development, Lending Operations, and Financial Services. My work has focused on solving complex business problems through product thinking, technology enablement, process redesign, and cross-functional leadership.
 
 I enjoy building businesses from zero, scaling underperforming channels, digitizing customer journeys, optimizing operations, and aligning business, technology, and customer needs into sustainable growth models.
 
