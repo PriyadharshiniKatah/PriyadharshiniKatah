@@ -4,6 +4,12 @@
 
 I help businesses scale growth channels, build strategic partnerships, optimize funnels, and deliver digital transformation initiatives.
 
+## 📄 Resume
+
+🔗 [View Resume](./case-studies/resume.md)
+
+📥 [Download Resume PDF](./case-studies/Priyadharshini_PK_Product_Channel_and_Strategy.pdf)
+
 ### 🚀 Impact Highlights
 
 - Scaled partner network from **3,200 → 26,000+**
