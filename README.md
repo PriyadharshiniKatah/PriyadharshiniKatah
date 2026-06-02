@@ -31,7 +31,7 @@ Product Manager - Strategic Alliances, Connector and Insurance Channel
 - Coordinated Product, Tech, Operations, Compliance and Business teams
 
 #### Home First Finance Company India Limited, Head Office, Mumbai
-Strategic Manager
+Strategic Manager - Lead Management; Disbursement Manager - PAN India AHL and LAP loans
 
 - Managed PAN India lending operations
 - Authorized ₹200–250 Cr monthly sanctions
