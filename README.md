@@ -6,9 +6,7 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 
 ## 📄 Resume
 
-🔗 [View Resume][(./case-studies/resume.md)](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/Priyadharshini_PK_Product%20Channel%20and%20Strategy.pdf)
-
-📥 [Download Resume PDF][(./case-studies/Priyadharshini_PK_Product_Channel_and_Strategy.pdf)](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/Priyadharshini_PK_Product%20Channel%20and%20Strategy.pdf)
+📥 [View / Download Resume PDF][(./case-studies/Priyadharshini_PK_Product_Channel_and_Strategy.pdf)](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/Priyadharshini_PK_Product%20Channel%20and%20Strategy.pdf)
 
 ### 🚀 Impact Highlights
 
