@@ -30,6 +30,8 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Collaborated with Product, Technology, Risk, Compliance, and Operations teams to launch scalable partnership-led growth initiatives.
 - Managed channel P&L, budgeting, forecasting, and profitability tracking to ensure sustainable business growth.
 
+📖 **Case Study:** [Strategic Alliances](./Strategic-alliances-case-study.md)
+
 ### 🔗 Connector Channel
 
 - Revitalized an underperforming connector ecosystem by redesigning partner engagement models and strengthening governance frameworks.
@@ -37,6 +39,8 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Built structured partner review mechanisms and growth plans that improved productivity and business contribution.
 - Worked closely with internal stakeholders to streamline onboarding, reduce operational bottlenecks, and enhance partner experience.
 - Drove channel expansion by identifying new opportunities and strengthening relationships with key ecosystem players.
+
+📖 **Case Study:** [Connector Channel Scale-Up](./connector-channel-case-study.md)
 
 ### 🛡️ Insurance Channel
 
@@ -46,12 +50,18 @@ I help businesses scale growth channels, build strategic partnerships, optimize 
 - Worked on retention and growth initiatives to improve channel contribution and partner engagement.
 - Supported digital and process transformation initiatives to improve operational efficiency and customer experience.
 
+📖 **Case Study:** [Insurance Channel Transformation](./insurance-channel-case-study.md)
+
 ### 📊 Product, Growth & Transformation Initiatives
 
 - Led multiple cross-functional initiatives spanning Product, Technology, Operations, Compliance, Risk, and Marketing teams.
 - Drove API integrations, process automation, reporting enhancements, and digital transformation initiatives.
 - Built executive dashboards and MIS frameworks to track acquisition, conversion, revenue, retention, and operational KPIs.
 - Contributed to strategic planning, business reviews, budgeting exercises, and long-term growth initiatives across channels.
+
+📖 **Case Study:** [Lending Journey Digitization](./Lending-digitization-case-study.md)
+
+📖 **Case Study:** [Fincare–AU Merger Integration](./Fincare-AU-merger-case-study.md)
 
 #### Home First Finance Company India Limited, Head Office, Mumbai
 ## 🤝 Strategic Alliances & Channel Development (Feb 2020 – Apr 2022)
