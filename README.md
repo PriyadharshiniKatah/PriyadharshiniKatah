@@ -70,7 +70,7 @@ I am now fully available and actively seeking Product Management, Growth, Strate
 
 ## 📄 Resume
 
-📥 [View / Download Resume PDF][(./case-studies/Priyadharshini_PK_Product_Channel_and_Strategy.pdf)](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/Priyadharshini_PK_Product%20Channel%20and%20Strategy.pdf)
+📥 [View / Download Resume PDF][(https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/PriyadharshiniPK_Resume_PM.pdf)
 
 ---
 
